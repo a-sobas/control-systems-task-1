@@ -8,8 +8,10 @@ fastapi = "*"
 uvicorn = {extras = ["standard"], version = "*"}
 pydantic = "*"
 requests = "*"
+numpy = "*"
 
 [dev-packages]
 
 [requires]
 python_version = "3.8"
+
